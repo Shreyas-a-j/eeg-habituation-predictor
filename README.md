@@ -365,8 +365,8 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 ## Contact & Support
 
 **Questions?** Open an issue on GitHub or contact:
-- **Email**: your.email@college.edu
-- **GitHub**: @yourusername
+- **Email**: airjadhav111@gmail.com
+- **GitHub**: Shreyas-a-j
 
 ---
 
