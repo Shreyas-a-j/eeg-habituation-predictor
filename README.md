@@ -375,7 +375,7 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 - **Dataset**: PhysioNet for public EEG data
 - **Libraries**: scikit-learn, scipy, MNE-Python, SHAP
 - **Inspiration**: Research papers by Gonzalez et al. and Altham et al.
-- **Advisors**: [Your institution/mentors]
+- **Advisors**: [Dr.Md.Rafeek Cheerman UBDTCE Davangere]
 
 ---
 
