@@ -12,7 +12,7 @@ import pytest
 sys.path.insert(0, 'src')
 
 from ehp.feature_extractor import EEGFeatureExtractor
-from ehp import HabitationPredictor
+from ehp.classifier import HabitationPredictor
 from ehp.evaluator import EvaluationMetrics
 
 # ============================================================================
