@@ -208,7 +208,7 @@ print(features)
 ### Example 2: Train Classifier
 
 ```python
-from ehp.classifier import HabitationPredictor
+from ehp import HabitationPredictor
 from sklearn.model_selection import train_test_split
 
 # Your features (N samples × 7 features) and labels (N,)
@@ -226,7 +226,7 @@ confidences = predictor.predict_with_confidence(X_test)
 ### Example 3: SHAP Explainability
 
 ```python
-from ehp.explainer import ExplainabilityAnalyzer
+from ehp import ExplainabilityAnalyzer
 
 # Initialize analyzer with trained classifier
 analyzer = ExplainabilityAnalyzer(
